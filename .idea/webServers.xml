@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3566580d-139c-4411-b147-a5a4853789ab" name="4090">
+        <fileTransfer rootFolder="/data1/cyt" accessType="SFTP" host="10.108.119.200" port="22" sshConfigId="e0a87e2f-9ca2-4f00-916f-32e88ca0ae58" sshConfig="cyt@10.108.119.200:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
